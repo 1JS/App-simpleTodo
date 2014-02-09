@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "backbone": "~1.1.0",
+    "underscore": "~1.5.2",
+    "bootstrap-sass-official": "~3.1.0+2"
+  },
+  "devDependencies": {}
+}

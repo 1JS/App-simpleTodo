@@ -1,0 +1,1 @@
+Just a 'Hello world' thing in learning BackboneJS
